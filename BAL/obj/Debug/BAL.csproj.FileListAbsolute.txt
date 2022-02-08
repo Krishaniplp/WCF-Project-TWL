@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\MyWCFService\BAL\bin\Debug\BAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\BAL\bin\Debug\BAL.pdb
+C:\Users\ASUS\source\repos\MyWCFService\BAL\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\BAL\bin\Debug\Ref.dll
+C:\Users\ASUS\source\repos\MyWCFService\BAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\MyWCFService\BAL\bin\Debug\Ref.pdb
+C:\Users\ASUS\source\repos\MyWCFService\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyWCFService\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyWCFService\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MyWCFService\BAL\obj\Debug\BAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\BAL\obj\Debug\BAL.pdb

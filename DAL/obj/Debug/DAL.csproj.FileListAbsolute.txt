@@ -1,0 +1,9 @@
+C:\Users\ASUS\source\repos\MyWCFService\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\source\repos\MyWCFService\DAL\bin\Debug\Ref.dll
+C:\Users\ASUS\source\repos\MyWCFService\DAL\bin\Debug\Ref.pdb
+C:\Users\ASUS\source\repos\MyWCFService\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyWCFService\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyWCFService\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MyWCFService\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\DAL\obj\Debug\DAL.pdb

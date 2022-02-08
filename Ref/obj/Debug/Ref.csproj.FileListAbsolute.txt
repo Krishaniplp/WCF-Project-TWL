@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\MyWCFService\Ref\bin\Debug\Ref.dll
+C:\Users\ASUS\source\repos\MyWCFService\Ref\bin\Debug\Ref.pdb
+C:\Users\ASUS\source\repos\MyWCFService\Ref\obj\Debug\Ref.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyWCFService\Ref\obj\Debug\Ref.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyWCFService\Ref\obj\Debug\Ref.dll
+C:\Users\ASUS\source\repos\MyWCFService\Ref\obj\Debug\Ref.pdb

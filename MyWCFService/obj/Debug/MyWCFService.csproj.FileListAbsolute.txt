@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\MyWCFService.dll.config
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\MyWCFService.dll
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\MyWCFService.pdb
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\obj\Debug\MyWCFService.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\obj\Debug\MyWCFService.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\obj\Debug\MyWCFService.csproj.CopyComplete
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\obj\Debug\MyWCFService.dll
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\obj\Debug\MyWCFService.pdb
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\BAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\Ref.dll
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\DAL.dll
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\BAL.pdb
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\Ref.pdb
+C:\Users\ASUS\source\repos\MyWCFService\MyWCFService\bin\DAL.pdb
